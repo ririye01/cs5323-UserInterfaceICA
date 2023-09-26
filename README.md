@@ -1,4 +1,4 @@
-# cs5323-UserInterfaceICA
+# CS 5323: User Interface In-Class Assignment
 
 Contributors
 
